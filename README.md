@@ -1,0 +1,1 @@
+Welcome to the Headphones project! This repository contains the source code and design assets for a stylish and user-friendly headphones e-commerce website. With a responsive design and carefully crafted interactions, this website aims to provide a seamless experience for users browsing and purchasing headphones.
